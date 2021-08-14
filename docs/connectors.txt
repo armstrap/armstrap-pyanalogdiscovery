@@ -1,0 +1,34 @@
+Analog Discovery Pro
+
+2 Row 24 position 2.54mm Pitch Non-Keyed
+Mouser #: 649-65043-025LF
+Mfr. #: 65043-025LF
+Desc.: Headers & Wire Housings Headers & Wire Housings 2X12C HOUSING
+
+2 Row 24 position 2.54mm Pitch Keyed
+Mouser #: 649-69176-024LF
+Mfr. #: 69176-024LF
+Desc.: Headers & Wire Housings Headers & Wire Housings 24P LATCH HOUSING
+
+
+Analog Discovery 2
+
+2 Row 30 position 2.54mm Pitch Non-Keyed
+Mouser #: 649-65846-002LF
+Mfr. #: 65846-002LF
+Desc.: Headers & Wire Housings Headers & Wire Housings HSG .100" POL 30POS.
+
+2 Row 30 position 2.54mm Pitch Keyed
+Mouser #: 649-65043-022LF
+Mfr. #: 65043-022LF
+Desc.: Headers & Wire Housings Headers & Wire Housings MINI-LATCH PV
+
+Terminal Crimp Pins
+Mouser #: 649-47217-000LF
+Mfr. #: 47217-000LF
+Desc.:  Headers & Wire Housings Headers & Wire Housings CTW RECEPTACLE 22-26AWG REEL
+
+2 Row 30 position 2.54mm Pitch Non-Keyed Right Angle Headers
+Digi-Key #: S5568-ND
+Mfr. #: PPPC152LJBN-RC
+https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC152LJBN-RC/776026?_ga=2.185413930.2050256559.1619993368-1382626910.1616818264
