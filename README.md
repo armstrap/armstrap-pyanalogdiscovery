@@ -3,9 +3,9 @@ Python wrappers and tools to control Digilent Analog Discovery devices.  These w
 
 THIS IS NOT A COMPLETE API.  IT IS A WORK IN PROGRESS.
 
-![AnalogDiscoveryPro](https://github.com/armstrap/armstrap-pyanalogdiscovery/raw/master/images/digilent-analog-discovery-pro.png)
-![AnalogDiscovery2](https://github.com/armstrap/armstrap-pyanalogdiscovery/raw/master/images/digilent-analog-discovery-2.png)
-![Python](https://github.com/armstrap/armstrap-pyanalogdiscovery/raw/master/images/python-logo-and-wordmark.png)
+![AnalogDiscoveryPro](https://github.com/armstrap/armstrap-pyanalogdiscovery/raw/main/images/digilent-analog-discovery-pro.png)
+![AnalogDiscovery2](https://github.com/armstrap/armstrap-pyanalogdiscovery/raw/main/images/digilent-analog-discovery-2.png)
+![Python](https://github.com/armstrap/armstrap-pyanalogdiscovery/raw/main/images/python-logo-and-wordmark.png)
 
 # What are Digilent Analog Discovery Devices?
 
