@@ -3662,7 +3662,7 @@ def DigitalI2cWriteRead(hdwf: int, address: int, write_data: List[int], read_dat
     '''
     Performs I2C write, repeated start and read. In case zero bytes are
     specified for read (cRx) only write and for zero write (cTx) only read is
-    peformed. The read/write bit in the address is controlled by the function.
+    performed. The read/write bit in the address is controlled by the function.
     The returned NAK index returns one based index of the first negative
     acknowledged transfer byte, zero when all the bytes where acknowledged. When
     the first address is acknowledged it returns 1. Returns negative value for

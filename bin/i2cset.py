@@ -41,7 +41,7 @@ def main(argv):
         parser.add_argument('--sda', default=1, help='The DIO pin to use as the I2C data line (default 1 if not specified).')
         parser.add_argument('--clock-rate', default=100000, help='The I2C clock rate in Herz (default 100,000 Hz (100 KHz) if not specified).')
         parser.add_argument('chip_address', metavar='chip-address', type=lambda x: int(x,0), help='Specifies the I2C chip address to use, and is an integer between 0x03 and 0x77.')
-        parser.add_argument('data_address', metavar='data-address', type=lambda x: int(x,0), help=        parser.add_argument('data_address', metavar='data-address', type=lambda x: int(x,0), help='Specifies the address on that chip to read from, and is an integer between 0x00 and 0xFF.')
+        parser.add_argument('data_address', metavar='data-address', type=lambda x: int(x,0), help='Specifies the data (or register) address on that chip to write to, and is an integer between 0x00 and 0xFF.')
         parser.add_argument('write_bytes', metavar='write-bytes', type=lambda x: int(x,0), nargs='+', help='Specifies the bytes to write.')
         args = parser.parse_args()
 
